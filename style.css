@@ -1,0 +1,23 @@
+.container-fluid{
+    background-color: rgb(231,0,10);
+}
+
+.navbar button1{
+    background-color: white ;
+}
+.d-block{
+    height: 400px;
+   
+   margin-left: 350px;
+  
+}
+.carousel-item{
+    border: 10px solid rgb(231,0,10);
+    border-radius: 5px;
+    background-color: white;
+    width: 800px;
+    object-fit: contain;
+}
+.card{
+    display: inline-block;
+}
